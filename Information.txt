@@ -1,0 +1,2 @@
+This is a DevOps Project made for Docker implementation. I made a ToDo Application which is containerized.
+This is Use Case for Containerising Django Application.
